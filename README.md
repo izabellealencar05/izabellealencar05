@@ -13,5 +13,3 @@
 ![Iza's GitHub stats](https://github-readme-stats.vercel.app/api?username=izabellealencar05&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izabellealencar05&layout=donut-vertical&theme=transparent)](https://github.com/izabellealencar05/github-readme-stats)
-
-

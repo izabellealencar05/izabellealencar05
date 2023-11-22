@@ -1,4 +1,4 @@
-## Bom dia, sou a Izabelle tentando me virar nesse novo mundo!
+## Bom dia, estou tentando me virar nesse novo mundo!
 
 
 ### Estudando Ciência da Computação no Ceub 

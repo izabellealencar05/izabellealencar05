@@ -1,7 +1,6 @@
-## Bom dia, estou tentando me virar nesse novo mundo!
 
 
-### Estudando Ciência da Computação no Ceub 
+### Estudando Ciência da Computação no Ceub, 7° semestre
 
 
 
